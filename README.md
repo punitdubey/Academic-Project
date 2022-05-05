@@ -1,2 +1,2 @@
 # Academic-Project
-Projects done for acedmics requirements.
+Projects done for academics requirements.
